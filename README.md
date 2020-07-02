@@ -1,2 +1,2 @@
-# Techdegree-P1
- My First Repo
+# Tech Degree Project 1
+
